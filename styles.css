@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table{
+	width: 100%;
+	border-spacing: 0;
+}
+td,
+th{
+	padding: 5px;
+	border:1px solid #000000;
+	text-align:center;
+}
